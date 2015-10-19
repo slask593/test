@@ -4,5 +4,6 @@ public class Test {
 		System.out.println(">>>>>>>>>>>>");
 		System.out.println(">>>>>>>>>>>> remote");
 		System.out.println(">>>>>>>>>>>> local");
+		System.out.println(">>>>>>>>>>>> local 2");
 	}
 }
